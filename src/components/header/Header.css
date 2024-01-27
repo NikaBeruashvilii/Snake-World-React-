@@ -1,0 +1,44 @@
+.head {
+    background-color: rgb(0, 151, 111);
+    /* background-color: black !important;
+    color:black; */
+    color: aliceblue;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+}
+
+.snake {
+    color: white;
+}
+
+.navbar-header {
+    background-color: black ;
+}
+
+.navbar-mtavari {
+    background-color: yellow;
+    border-radius: 30px;
+    margin-left: 85%;
+    
+}
+
+.main-title {
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.secondary-title {
+    font-size: small;
+    margin-top: 0px;
+    color: rgba(255, 255, 255, 0.767);
+}
+
+.navbar-toggler-icon {
+    width: 35px;
+    /* background-image: url('../../images/vuesax-outline-menu.svg') !important; */
+}
